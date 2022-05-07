@@ -30,7 +30,7 @@ For feedback and contributions:
 
 __Editors__ 
 
-<u>Candace Fleischer </u>-  
+<u>Candace Fleischer </u> - 
 Emory University School of Medicine, Atlanta, Georgia, United States <br>
 fleischerlab@gmail.com 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fleischer_lab.svg?style=social&label=Follow%20%40fleischer_lab)](https://twitter.com/fleischer_lab)
@@ -58,8 +58,7 @@ sevim_cengiz@icloud.com
 CIBM MRI EPFL, Switzerland <br> 
 cristina.cudalbu@epfl.ch
 
-
-<u>Samual Guay </u><br>
+<u>Samuel Guay </u><br>
 samuel.guay@umontreal.ca
 
 <u>Sunita Gudwani </u> <br>
@@ -107,15 +106,16 @@ ISMRM MRS Study Group
 
 ## Sharing is caring
 
-***Dear MRS researchers***
+***Dear fellow MRS researchers!***
 
 This digital collection wants to be a living resource for newcomers to the field of magnetic resonance spectroscopy. If you have created a useful lecture, video, or online text resource that may be helpful for someone who is trying to learn the basics of MRS, please consider contributing it to this e-book. 
 
 __How to share?__
 
 You can add your material through various pathways:
-- by submitting a pull request to the [repository](https://github.com/mrshub/mrs-educational-book) containing these pages
-- by posting in the [MRSHub forum](https://forum.mrshub.org/t/call-for-participation-mrs-educational-collection/529) 
-- by directly sending an e-mail (fleischerlab@gmail.com). 
+
+* by submitting a pull request to the [repository](https://github.com/mrshub/mrs-educational-book) containing these pages
+* by posting in the [MRSHub forum](https://forum.mrshub.org/t/call-for-participation-mrs-educational-collection/529) 
+* by directly sending an e-mail (fleischerlab@gmail.com). 
 
 Thank you very much in advance for your help in making the beautiful science of MRS accessible to those who want to master it!
