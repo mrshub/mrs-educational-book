@@ -109,15 +109,13 @@ ISMRM MRS Study Group
 
 ***Dear MRS researchers***
 
-We, trying to fill the gap between the language used in the scientific literature and the basics introduced in college coursework for people who are started with MRS, encourage Dear MRS researchers to share their materials.  
-
-__Why sharing is important?__
-
-This website is a great example of the living resource of MRS. 
-There are a variety of motivations to share your work. 
-Others don't have to start from scratch if you share your work; instead, they can build on it.
-Believe me, all of your course materials, presentations, and videos are valuable to us.
+This digital collection wants to be a living resource for newcomers to the field of magnetic resonance spectroscopy. If you have created a useful lecture, video, or online text resource that may be helpful for someone who is trying to learn the basics of MRS, please consider contributing it to this e-book. 
 
 __How to share?__
 
-People can add their material by simply posting in the [forum](https://forum.mrshub.org/t/call-for-participation-mrs-educational-collection/529), submitting pull requests on GitHub or directly sending an e-mail (fleischerlab@gmail.com). 
+You can add your material through various pathways:
+- by submitting a pull request to the [repository](https://github.com/mrshub/mrs-educational-book) containing these pages
+- by posting in the [MRSHub forum](https://forum.mrshub.org/t/call-for-participation-mrs-educational-collection/529) 
+- by directly sending an e-mail (fleischerlab@gmail.com). 
+
+Thank you very much in advance for your help in making the beautiful science of MRS accessible to those who want to master it!
