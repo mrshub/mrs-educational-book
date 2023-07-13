@@ -31,6 +31,7 @@ video-links
 selected-books
 mrs-workshop-2018
 ismrm-courses
+mr-spectroscopy-hackathon-educational-track
 mrs-and-nmr-glossary
 introduction-and-fundamentals
 nmr-signal-and-spectra
