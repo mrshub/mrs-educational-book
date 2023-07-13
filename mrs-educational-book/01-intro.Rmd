@@ -2,7 +2,7 @@
 
 ## MRI Study Material List
 
-**_Acroyms:_**
+**_Acronyms:_**
 
 ```
 NMR = Nuclear Magnetic Resonance

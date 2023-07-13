@@ -26,7 +26,7 @@ Introduction to basic principles behind MRS including chemical shift, J-coupling
 
 Introduction to MR signal generation, signal conversion to images, and Fourier transform. Lecture focuses on how MR spectroscopy is different from MR imaging, followed by detailed explanations of chemical shift and J-coupling. Lastly, an introduction to the clinical application of MRS as a diagnostic tool for brain tumors, multiple sclerosis, and schizophrenia is provided.
 
-[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L1-BasicsOfMRS_Fillmer.pdf) 
+[Slide](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/L1-BasicsOfMRS_Fillmer.pdf) 
 
 ***Ariane Fillmer, PhD*** 
 
@@ -38,7 +38,7 @@ Introduction to MR signal generation, signal conversion to images, and Fourier t
 
 Introduction of pre- and post-processing techniques in MRS. MRS data analysis workflow, from raw data export to report generation, is described including considerations such as sequence developer, software version, and acquisition parameters. MRS data analysis steps are explained including preprocessing, visualization, modeling, quantification, and quality assessment. Finally, introduction and comparison of MRS software is provided, including LCModel, jMRUI, TARQUIN, Vespa, FID-A, Gannet, INSPECTOR, Osprey, Spant, and FSL-MRS.
 
-[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L4-Postprocessing%26Quantification_Oeltzschner.pdf)
+[Slide](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/L4-Postprocessing%26Quantification_Oeltzschner.pdf)
 
 ***Georg Oeltzschner, PhD***
 
@@ -50,7 +50,7 @@ Introduction of pre- and post-processing techniques in MRS. MRS data analysis wo
 
 This lecture introduces ‘classical’ single voxel in vivo MRS sequences without adiabatic pulses as well as ‘modern’ sequences with adiabatic pulses, including advantages and disadvantages of each sequence. The trade-off between specific absorption rate (SAR), chemical shift displacement (CSD), and TE/measurement time are discussed. Multi-voxel MR spectroscopic imaging (MRSI) or chemical shift imaging (CSI) is also introduced.
 
-[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L2_LocalizationMethods_Riemann.pdf)
+[Slide](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/L2_LocalizationMethods_Riemann.pdf)
 
 ***Layla Tabea Riemann, M.Sc.***
 
@@ -62,7 +62,7 @@ This lecture introduces ‘classical’ single voxel in vivo MRS sequences witho
 
 Introduction to key factors for high quality MRS data with artifact free signal and separated and well-defined peaks. High quality data can be achieved with a homogenous B0 (external) magnetic field, adequate signal to noise, and high spectral resolution. A discussion of B0 inhomogeneity is also included. Spectral quality factors are reviewed including (1) shimming, (2) signal-to-noise ratio (SNR), (3) water-suppression, (4) spectral-resolution, (5) improving artifacts due to signal from outside the voxel, and (6) motion correction. The overall workflow for optimal spectral quality is also described including, anatomical imaging for voxel placement, reference voltage B0 shim (1-5 minutes), quality check (1minute), and MRS acquisition.
 
-[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/L3-Calib%26Workflow_Fillmer.pdf)
+[Slide](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/L3-Calib%26Workflow_Fillmer.pdf)
 
 ***Ariane Fillmer, PhD***
 
@@ -135,7 +135,7 @@ This chapter is concerned with the two methods used in multiple pulse NMR to sel
 
 Introduction to muscle architecture and related application of MRS. A review of 1H MRS muscle spectra with focus on IMCL (Intra-), EMCL (Extra-) -myocellular lipid content, carnitine and carnosine. 31P MRS muscle spectra are also discussed including muscle metabolism and muscular dystrophy.
 
-[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/high%20field%20workshop%20Heidelberg%20Kan.pdf) 
+[Slide](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/high%20field%20workshop%20Heidelberg%20Kan.pdf) 
 
 ***Hermien Kan*** 
 
@@ -147,7 +147,7 @@ Introduction to muscle architecture and related application of MRS. A review of 
 
 Introduction to muscular damage and disease with a focus on 31P MRS and utility in diagnosis. Static MRS markers are reviewed, e.g., pH, phosphocreatine, inorganic phosphate, etc, as well as dynamic MRS acquired during exercise.
 
-[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/MRS%20in%20neuromuscular%20disease%20Inspector.pdf) 
+[Slide](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/MRS%20in%20neuromuscular%20disease%20Inspector.pdf) 
 
 ***Hermien Kan*** 
 
@@ -159,7 +159,7 @@ Introduction to muscular damage and disease with a focus on 31P MRS and utility 
 
 This is an expert level lecture about coupling constants. This lecture trying to answer three questions: 1) what are coupling constants, 2) how big are they, and 3) how can they be extracted from first-order multiplets
 
-[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/NMR_J-Coupling_201201_Lecture_3_CouplingConstants_Harvard_Kwan_EE.pdf)
+[Slide](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/NMR_J-Coupling_201201_Lecture_3_CouplingConstants_Harvard_Kwan_EE.pdf)
 
 ***Eugene E. Kwan***
 
@@ -170,7 +170,7 @@ This is an expert level lecture about coupling constants. This lecture trying to
 
 A slide about a specific pulse sequence INEPT. This slide briefly introduces main interactions in solution NMR (the chemical shift and the J coupling), and then explains about concepts of spin echo sequence and decoupling. They combined the spin echo and decoupling and tried some theoretical experiments.
 
-[Slide](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/presentation_INEPT_MRS_sequence.pdf)
+[Slide](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/presentation_INEPT_MRS_sequence.pdf)
 
 ***Gareth A. Morris and Ray Freeman***
 
@@ -236,7 +236,7 @@ Lectures from the MRS Metabolic Imaging Workshop in Utrecht, The Netherlands
 
 Topics include multi-voxel MRS, fast metabolic imaging, quality of MRS data, spectral fitting and quantification, applications of MRS, multinuclear MRS, MRS in neuroscience, MRS outside the brain, and consensus discussions 
 
-[PDF](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/MRS%20workshop%202018%20Youtube%20program.pdf)
+[PDF](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/MRS%20workshop%202018%20Youtube%20program.pdf)
 
 ## 2020-2018 ISMRM courses– 
 
@@ -245,13 +245,70 @@ Topics include multi-voxel MRS, fast metabolic imaging, quality of MRS data, spe
 Links to all MRS-related educational presentations from the ISMRM Annual Meeting from 2018-2020 
 Note: an ISMRM login is required 
 
-[Spreadsheet](https://github.com/sevimcengiz/mrs-educational-book/blob/main/libraries/2020-2018_ISMRM_courses_01042022.xlsx) PS: Click on "view raw" to download it.
+[Spreadsheet](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/2020-2018_ISMRM_courses_01042022.xlsx) PS: Click on "view raw" to download it.
  
+## 2023 MR Spectroscopy Hackathon Educational Track
+
+```Beginner```
+
+```Keywords:``` *spectroscopy*, *reproducibility*, *R*
+
+From Basics to Brilliance: An Introduction to RStudio for MR spectroscopy analysis, visualization, and beyond
+
+[Slide](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/hackathon-2023/Archibald_R-educational_MRSHackathon.pdf) 
+
+***Jessica Archibald, PhD*** 
+
+```Beginner```
+
+```Keywords:``` *spectroscopy*, *reproducibility*, *data management*
+
+Collaborating with yourself: Best practices for managing data, code, and results for MRS analysis projects
+
+[Slide](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/hackathon-2023/DaviesJenkins_MRSHackathonSlides.pdf) 
+
+***Christopher Davies-Jenkins, PhD*** 
+
+```Beginner```
+
+```Keywords:``` *spectroscopy*, *coding*
+
+Intro to best coding practices for shared projects
+
+[Slide](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/hackathon-2023/LaMaster_MRS Hackathon 2023_slides.pdf) 
+
+***John LaMaster, MSc*** 
+
+```Beginner```
+
+```Keywords:``` *spectroscopy*, *artifacts*
+
+In-vivo MRS: A Gallery of Artifacts revisited
+
+[Slide](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/hackathon-2023/MacMillan_MRS_Artifacts_2023_MRSHackathon.pdf) 
+
+***Erin MacMillan, PhD*** 
 
 
+```Beginner```
 
+```Keywords:``` *spectroscopy*, *processing*, *simulation*, *FID-A*
 
+MRS simulation and preprocessing using the FID-A toolkit
 
+[Slide](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/hackathon-2023/Near_FID-A_MRSHackathon2023.pdf) 
+
+***Jamie Near, PhD***
+
+```Beginner```
+
+```Keywords:``` *spectroscopy*, *coding*, *git*
+
+Tools for productive hacking (basic unix commands, basics of git)
+
+[Slide](https://github.com/mrshub/mrs-educational-book/blob/main/libraries/hackathon-2023/Ozdemir_MRSHackathon_slides.pdf) 
+
+***Ipek Özdemir, PhD*** 
 
 
 
