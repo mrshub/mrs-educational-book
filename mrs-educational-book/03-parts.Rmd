@@ -165,11 +165,54 @@ A number of excellent and comprehensive glossaries are currently available for b
 
 ***Peak Integration:*** Peak integration is used to determine the area under the peak. The area provides an estimate for the peak intensity, as well as the relative concentration of the nucleus being studied.
 
-## Additional MRI Glossaries
+## Consensus Papers and Recommendations
+<!-- Additional MRI Glossaries -->
 
 ***Expert Consensus on Terms in MRS*** [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/nbm.4347)  
 
 ***Simple*** [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118782934.gloss)
 
 ***Comprehensive*** [Link](https://www.acr.org/-/media/ACR/Files/Radiology-Safety/MR-Safety/MRGlossary.pdf)
+
+***Recommendation on Methods for Acquiring Clinical MRS*** 
+[Link](https://doi.org/10.1002/mrm.27742)
+
+***Recommendation on Best Practices for Motion Correction*** 
+[Link](https://doi.org/10.1002/nbm.4364)
+
+***Recommendation on B0 Shimming*** 
+[Link](https://doi.org/10.1002/nbm.4350)
+
+***Recommendation on Advanced Spectroscopy Imaging*** 
+[Link](https://doi.org/10.1002/nbm.4309)
+
+***Recommendation on Pre-processing, analysis and quantification*** 
+[Link](https://doi.org/10.1002/nbm.4257)
+
+***Recommendation on 31P MR Spectroscopy in Skeletal Muscle*** 
+[Link](https://doi.org/10.1002/nbm.4246)
+
+***Recommendation on Proton MRS in Skeletal Muscle***
+[Link](https://doi.org/10.1002/nbm.4266)
+
+***Recommendation on Advanced Single Voxel Techniques in Humans: Experts Consensus***
+[Link](https://doi.org/10.1002/nbm.4236)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
