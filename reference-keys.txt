@@ -38,5 +38,5 @@ nmr-signal-and-spectra
 nmr-experiment-and-hardware
 pre-processing
 analysis
-additional-mri-glossaries
+consensus-papers-and-recommendations
 mrs-software-code
